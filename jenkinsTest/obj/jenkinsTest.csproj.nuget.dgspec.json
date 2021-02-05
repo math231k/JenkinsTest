@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Skole\\DevOps\\jenkinsTestConsoleApplication\\jenkinsTest\\jenkinsTest.csproj": {}
+    "C:\\Playground\\JenkinsTest\\jenkinsTest\\jenkinsTest.csproj": {}
   },
   "projects": {
-    "C:\\Skole\\DevOps\\jenkinsTestConsoleApplication\\jenkinsTest\\jenkinsTest.csproj": {
+    "C:\\Playground\\JenkinsTest\\jenkinsTest\\jenkinsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skole\\DevOps\\jenkinsTestConsoleApplication\\jenkinsTest\\jenkinsTest.csproj",
+        "projectUniqueName": "C:\\Playground\\JenkinsTest\\jenkinsTest\\jenkinsTest.csproj",
         "projectName": "jenkinsTest",
-        "projectPath": "C:\\Skole\\DevOps\\jenkinsTestConsoleApplication\\jenkinsTest\\jenkinsTest.csproj",
-        "packagesPath": "C:\\Users\\math2\\.nuget\\packages\\",
-        "outputPath": "C:\\Skole\\DevOps\\jenkinsTestConsoleApplication\\jenkinsTest\\obj\\",
+        "projectPath": "C:\\Playground\\JenkinsTest\\jenkinsTest\\jenkinsTest.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Playground\\JenkinsTest\\jenkinsTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\math2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

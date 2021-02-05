@@ -1,0 +1,13 @@
+C:\Playground\JenkinsTest\jenkinsTest\bin\Debug\netcoreapp3.1\jenkinsTest.exe
+C:\Playground\JenkinsTest\jenkinsTest\bin\Debug\netcoreapp3.1\jenkinsTest.deps.json
+C:\Playground\JenkinsTest\jenkinsTest\bin\Debug\netcoreapp3.1\jenkinsTest.runtimeconfig.json
+C:\Playground\JenkinsTest\jenkinsTest\bin\Debug\netcoreapp3.1\jenkinsTest.runtimeconfig.dev.json
+C:\Playground\JenkinsTest\jenkinsTest\bin\Debug\netcoreapp3.1\jenkinsTest.dll
+C:\Playground\JenkinsTest\jenkinsTest\bin\Debug\netcoreapp3.1\jenkinsTest.pdb
+C:\Playground\JenkinsTest\jenkinsTest\obj\Debug\netcoreapp3.1\jenkinsTest.csprojAssemblyReference.cache
+C:\Playground\JenkinsTest\jenkinsTest\obj\Debug\netcoreapp3.1\jenkinsTest.AssemblyInfoInputs.cache
+C:\Playground\JenkinsTest\jenkinsTest\obj\Debug\netcoreapp3.1\jenkinsTest.AssemblyInfo.cs
+C:\Playground\JenkinsTest\jenkinsTest\obj\Debug\netcoreapp3.1\jenkinsTest.csproj.CoreCompileInputs.cache
+C:\Playground\JenkinsTest\jenkinsTest\obj\Debug\netcoreapp3.1\jenkinsTest.dll
+C:\Playground\JenkinsTest\jenkinsTest\obj\Debug\netcoreapp3.1\jenkinsTest.pdb
+C:\Playground\JenkinsTest\jenkinsTest\obj\Debug\netcoreapp3.1\jenkinsTest.genruntimeconfig.cache

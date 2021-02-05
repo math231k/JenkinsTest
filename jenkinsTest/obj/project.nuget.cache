@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xf3M7dYjgG/xSrjhCw0U/Ywihq+OPdMjyqrAcjMFPHt9U0GcoAZ0wlI2BWCOZqjxTfAELoU4XRZUmjGIAJIpdQ==",
+  "dgSpecHash": "wMChllu1QBQ7M8r98HrzGXWgonc86B2FIJTAxD3GC/cxGEk4nLPv+RpmHjE2q8kG+pvTJIkDLqLfAmRrtKJsrg==",
   "success": true,
-  "projectFilePath": "C:\\Skole\\DevOps\\jenkinsTestConsoleApplication\\jenkinsTest\\jenkinsTest.csproj",
+  "projectFilePath": "C:\\Playground\\JenkinsTest\\jenkinsTest\\jenkinsTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
