@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage("Build") {
 			steps {
-				sh "dotnet build jenkinsTestConsoleApplication"
+				sh "dotnet build jenkinsTestConsoleApplication.sln"
 			}
 		}
 	}
